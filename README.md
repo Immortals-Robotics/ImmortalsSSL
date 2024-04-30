@@ -1,3 +1,6 @@
+# Deprecation notice
+This repository acts as a read-only archive. Further development is done in https://github.com/Immortals-Robotics/Tyr.
+
 # Immortals SSL
 Immortals code base for the Robocup Soccer Small-Size League.
 The overall software architecture is to take information of the field from SSL-Vision over network, filter this information and pass them to the AI. The AI calculates a target for each robot. Finally, it transmits the processed data to the robots, in each frame.
